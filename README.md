@@ -3,6 +3,10 @@
 A simple command-line task manager built with Python.  
 This project allows you to add, update, delete, and track tasks directly from the terminal.
 
+
+
+🔗 **Project URL:** [https://github.com/CleevensCharlemagne/task-cli.git](https://github.com/CleevensCharlemagne/task-cli.git)
+
 ---
 
 ## 🚀 Features
