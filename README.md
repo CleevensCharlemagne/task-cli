@@ -5,7 +5,7 @@ This project allows you to add, update, delete, and track tasks directly from th
 
 
 
-🔗 **Project URL:** [https://github.com/CleevensCharlemagne/task-cli.git](https://github.com/CleevensCharlemagne/task-cli.git)
+🔗 **Project URL:** [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
 
 ---
 
