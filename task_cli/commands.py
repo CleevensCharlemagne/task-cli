@@ -1,5 +1,3 @@
-# commands.py
-
 def add_task(title, storage):
     task_id = storage.add(title)
     print(f"Task added successfully (ID: {task_id})")
