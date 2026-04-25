@@ -1,5 +1,3 @@
-# dispatcher.py
-
 from task_cli import commands
 
 COMMANDS = {
